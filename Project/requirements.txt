@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+sentence-transformers
+faiss-cpu
+gradio
+requests
+jupyter
+nbformat
+pypdf
+pdfplumber
